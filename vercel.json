@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/claim/[claim].js": {
+      "includeFiles": "_files/**"
+    }
+  }
+}

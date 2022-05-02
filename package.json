@@ -1,0 +1,11 @@
+{
+  "name": "evmosclaimchecker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "friedhelmensch",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
